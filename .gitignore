@@ -1,0 +1,48 @@
+# STM32CubeIDE auto-generated folders
+/.settings/
+/.metadata/
+/Debug/
+/Release/
+/build*/
+
+# STM32CubeMX auto-generated & config files
+*.ioc
+*.launch
+*.mxproject
+*.log
+
+# Compiled output files
+*.bin
+*.elf
+*.hex
+*.map
+*.lst
+*.o
+*.d
+
+# Eclipse project files (optional)
+*.project
+*.cproject
+
+# Backup and temp files
+*~
+*.bak
+*.tmp
+*.swp
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Unwanted file types
+*.exe
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.tar
