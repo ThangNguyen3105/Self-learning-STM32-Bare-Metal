@@ -46,3 +46,12 @@ Thumbs.db
 *.7z
 *.tar.gz
 *.tar
+# other file
+*.txt
+*.inf
+*.bat
+*.cat
+/stsw-link007*/
+/thuchanh*/
+/x86*/
+
